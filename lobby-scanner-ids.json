@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T00:40:18+02:00",
+  "updated_at": "2026-08-30T00:45:23+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1137,6 +1137,26 @@
       "player_id": "f94f294f-4a36-414c-8798-4b383bb8b64b",
       "observed_name": "Guest4305",
       "first_seen": "2026-08-30T00:39:52+02:00"
+    },
+    {
+      "player_id": "0ea2605a-e588-4076-a4cc-594307f47095",
+      "observed_name": "Armripple",
+      "first_seen": "2026-08-30T00:44:48+02:00"
+    },
+    {
+      "player_id": "5c274521-98bf-41de-9ecf-d3794e9c08ba",
+      "observed_name": "Guest1384",
+      "first_seen": "2026-08-30T00:44:48+02:00"
+    },
+    {
+      "player_id": "b42ca625-2f4d-403a-b291-7083bee9b253",
+      "observed_name": "سيدك وتاج راسك ابو شخه الشلال",
+      "first_seen": "2026-08-30T00:44:48+02:00"
+    },
+    {
+      "player_id": "b4ad905e-0bb8-48a7-97f4-bbb49b056989",
+      "observed_name": "Guest5323",
+      "first_seen": "2026-08-30T00:44:48+02:00"
     }
   ]
 }
