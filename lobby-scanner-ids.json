@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T01:00:30+02:00",
+  "updated_at": "2026-08-30T01:05:33+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1172,6 +1172,51 @@
       "player_id": "f587ca22-0db9-43a4-ada1-29b47264ded6",
       "observed_name": "Bindercurse",
       "first_seen": "2026-08-30T00:55:51+02:00"
+    },
+    {
+      "player_id": "e2a9e9c1-da02-40b2-805d-83cc47627c1a",
+      "observed_name": "Doomdune",
+      "first_seen": "2026-08-30T01:00:36+02:00"
+    },
+    {
+      "player_id": "aba0c13d-eea0-4dce-b4bb-4400c6e29bc1",
+      "observed_name": "Guest3199",
+      "first_seen": "2026-08-30T01:00:40+02:00"
+    },
+    {
+      "player_id": "71dcdb36-e29b-4ecd-8f46-b162ed9ec8c7",
+      "observed_name": "Guest9355",
+      "first_seen": "2026-08-30T01:00:58+02:00"
+    },
+    {
+      "player_id": "cf576edc-0bb4-4557-b3d3-d69061c71335",
+      "observed_name": "Guest6726",
+      "first_seen": "2026-08-30T01:01:01+02:00"
+    },
+    {
+      "player_id": "7ae2fb34-a958-44ef-8d15-23a3eb7768f7",
+      "observed_name": "MFP5867MCRB",
+      "first_seen": "2026-08-30T01:01:17+02:00"
+    },
+    {
+      "player_id": "83ac87ee-3a47-47df-9944-d01f508644d9",
+      "observed_name": "Guest3065",
+      "first_seen": "2026-08-30T01:04:55+02:00"
+    },
+    {
+      "player_id": "c3958692-f830-4525-93c3-5b90f566a249",
+      "observed_name": "Guest5822",
+      "first_seen": "2026-08-30T01:04:55+02:00"
+    },
+    {
+      "player_id": "e4be2452-b3b8-4491-bf01-21ca655a4320",
+      "observed_name": "Kangarooglory",
+      "first_seen": "2026-08-30T01:04:55+02:00"
+    },
+    {
+      "player_id": "01e8f012-5130-4f4c-8def-a75539cba24e",
+      "observed_name": "Guest6663",
+      "first_seen": "2026-08-30T01:05:04+02:00"
     }
   ]
 }
