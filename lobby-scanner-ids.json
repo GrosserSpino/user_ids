@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T00:45:23+02:00",
+  "updated_at": "2026-08-30T01:00:30+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1157,6 +1157,21 @@
       "player_id": "b4ad905e-0bb8-48a7-97f4-bbb49b056989",
       "observed_name": "Guest5323",
       "first_seen": "2026-08-30T00:44:48+02:00"
+    },
+    {
+      "player_id": "61bae292-7d59-4388-a27e-6a46115c3568",
+      "observed_name": "Guest6253",
+      "first_seen": "2026-08-30T00:55:51+02:00"
+    },
+    {
+      "player_id": "9fb3d6d2-5715-4e29-ab85-544e5a5b9d67",
+      "observed_name": "Guest8370",
+      "first_seen": "2026-08-30T00:55:51+02:00"
+    },
+    {
+      "player_id": "f587ca22-0db9-43a4-ada1-29b47264ded6",
+      "observed_name": "Bindercurse",
+      "first_seen": "2026-08-30T00:55:51+02:00"
     }
   ]
 }
