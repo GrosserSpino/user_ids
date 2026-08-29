@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-29T23:34:32+02:00",
+  "updated_at": "2026-08-30T00:25:11+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1022,6 +1022,56 @@
       "player_id": "a9a18749-31b8-4cd7-a10b-4004ff962c54",
       "observed_name": "Guest5339",
       "first_seen": "2026-08-29T18:51:57+02:00"
+    },
+    {
+      "player_id": "1d2fc719-ec8d-4362-a006-4708e57ae3a5",
+      "observed_name": "Guest3308",
+      "first_seen": "2026-08-30T00:20:24+02:00"
+    },
+    {
+      "player_id": "6c477f2f-85ed-439e-8b1f-19cc035d1e39",
+      "observed_name": "Robincurse",
+      "first_seen": "2026-08-30T00:20:24+02:00"
+    },
+    {
+      "player_id": "ca1348e6-6768-4862-bbe3-ce81c01eea0c",
+      "observed_name": "Guest2451",
+      "first_seen": "2026-08-30T00:20:24+02:00"
+    },
+    {
+      "player_id": "fcb7a194-8f50-4fd1-aa49-54b05e456799",
+      "observed_name": "Guest6484",
+      "first_seen": "2026-08-30T00:20:28+02:00"
+    },
+    {
+      "player_id": "882b2abb-d254-47f3-b84e-ef3b133b20a4",
+      "observed_name": "Glitchhaven",
+      "first_seen": "2026-08-30T00:20:49+02:00"
+    },
+    {
+      "player_id": "68783451-b4bb-45e4-9dd7-78c7e5cc60fe",
+      "observed_name": "Guest5465",
+      "first_seen": "2026-08-30T00:23:47+02:00"
+    },
+    {
+      "player_id": "6da55159-6581-4244-b88e-8c8950ec0eea",
+      "observed_name": "Houndbrave",
+      "first_seen": "2026-08-30T00:23:47+02:00"
+    },
+    {
+      "player_id": "73145a43-52da-4869-a750-23c29b5c71a8",
+      "observed_name": "Guest8444",
+      "first_seen": "2026-08-30T00:23:47+02:00"
+    },
+    {
+      "player_id": "7cbad623-83b1-4053-92a1-76965750f604",
+      "observed_name": "Guest8697",
+      "first_seen": "2026-08-30T00:23:47+02:00"
+    },
+    {
+      "player_id": "ea7dce29-3f44-4791-aecb-1a442032858c",
+      "observed_name": "ROBLOx",
+      "first_seen": "2026-08-30T00:23:47+02:00"
     }
   ]
 }
