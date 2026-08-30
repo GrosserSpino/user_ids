@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T01:05:33+02:00",
+  "updated_at": "2026-08-30T11:43:05+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1217,6 +1217,26 @@
       "player_id": "01e8f012-5130-4f4c-8def-a75539cba24e",
       "observed_name": "Guest6663",
       "first_seen": "2026-08-30T01:05:04+02:00"
+    },
+    {
+      "player_id": "00fc6aa3-6692-4417-940a-4ad9605dac20",
+      "observed_name": "Koalashy",
+      "first_seen": "2026-08-30T11:38:33+02:00"
+    },
+    {
+      "player_id": "6a3beb9a-0978-4d95-b680-fa74be24d7f6",
+      "observed_name": "Ali5647",
+      "first_seen": "2026-08-30T11:39:24+02:00"
+    },
+    {
+      "player_id": "76cf38cc-9604-48bb-9266-a416d12a738f",
+      "observed_name": "Subject1",
+      "first_seen": "2026-08-30T11:41:14+02:00"
+    },
+    {
+      "player_id": "faa5f458-29a2-4d08-9530-8601d592a054",
+      "observed_name": "Followeryellow",
+      "first_seen": "2026-08-30T11:41:14+02:00"
     }
   ]
 }
