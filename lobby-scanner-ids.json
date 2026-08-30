@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T17:24:22+02:00",
+  "updated_at": "2026-08-30T18:12:05+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1792,6 +1792,56 @@
       "player_id": "7771a8a4-a021-4a8b-b3aa-1e37f791c18a",
       "observed_name": "Hoofsavage",
       "first_seen": "2026-08-30T17:21:27+02:00"
+    },
+    {
+      "player_id": "185a4361-bd9d-4e86-9589-69e35ef52114",
+      "observed_name": "Guest2019",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "3e0c177b-6952-4202-b4c0-aca1a75afbf9",
+      "observed_name": "Sampurna",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "42a1bd47-da3c-467f-b8f4-c4925454a351",
+      "observed_name": "Guest1070",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "45836c7e-d929-4932-a8ed-257f5680e4a2",
+      "observed_name": "Guest9497",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "4cabc1b3-857b-4905-aa1c-67e21ad1a306",
+      "observed_name": "MetroyX",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "a47b9d70-038d-4f4c-bf05-1c723535a8a4",
+      "observed_name": "Guest5533",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "c66f3a34-f394-4b1b-bf4a-9e787a67ccee",
+      "observed_name": "Guest3632",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "cf280bd5-8e0a-4924-867f-2b7910c60f90",
+      "observed_name": "Graspboulder",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "d51b43ef-a4f3-4cf4-9e1a-979240a5161f",
+      "observed_name": "Guest8404",
+      "first_seen": "2026-08-30T18:07:20+02:00"
+    },
+    {
+      "player_id": "ed5e9729-3bc6-4d53-a080-edb868572cf8",
+      "observed_name": "Guest1662",
+      "first_seen": "2026-08-30T18:07:20+02:00"
     }
   ]
 }
