@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T20:03:14+02:00",
+  "updated_at": "2026-08-30T20:08:18+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2142,6 +2142,31 @@
       "player_id": "f5640b31-30eb-45dc-9899-c3f48d48afa3",
       "observed_name": "Guest4566",
       "first_seen": "2026-08-30T20:02:34+02:00"
+    },
+    {
+      "player_id": "3e8d50cc-17b4-4b91-b463-adafa364b013",
+      "observed_name": "Guest2281",
+      "first_seen": "2026-08-30T20:07:25+02:00"
+    },
+    {
+      "player_id": "a34de0d0-8697-4c01-8f8a-a642a57449b2",
+      "observed_name": "Guest3064",
+      "first_seen": "2026-08-30T20:07:25+02:00"
+    },
+    {
+      "player_id": "a36f4fe2-c772-42df-ab4f-f623c03b7740",
+      "observed_name": "Goodgamer29",
+      "first_seen": "2026-08-30T20:07:25+02:00"
+    },
+    {
+      "player_id": "e4872cdd-343f-42a8-bae8-03d08592e1d2",
+      "observed_name": "Wolverinefierce",
+      "first_seen": "2026-08-30T20:07:25+02:00"
+    },
+    {
+      "player_id": "6344019b-d9de-4800-bf2d-7200922dcd14",
+      "observed_name": "Guest9287",
+      "first_seen": "2026-08-30T20:07:31+02:00"
     }
   ]
 }
