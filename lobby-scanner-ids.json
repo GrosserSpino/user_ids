@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T12:03:16+02:00",
+  "updated_at": "2026-08-30T12:08:19+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1312,6 +1312,11 @@
       "player_id": "e35c48cc-8fdf-46f9-a55b-88d0cde239f4",
       "observed_name": "Guest8735",
       "first_seen": "2026-08-30T12:03:13+02:00"
+    },
+    {
+      "player_id": "e159f173-d459-4d6e-a85c-68dfd92896a2",
+      "observed_name": "Guest7024",
+      "first_seen": "2026-08-30T12:03:18+02:00"
     }
   ]
 }
