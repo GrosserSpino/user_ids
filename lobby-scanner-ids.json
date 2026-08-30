@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T16:27:04+02:00",
+  "updated_at": "2026-08-30T16:32:07+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1517,6 +1517,66 @@
       "player_id": "803f9305-fc8d-4543-8294-b5fbf6b81b4b",
       "observed_name": "Guest5523",
       "first_seen": "2026-08-30T16:24:17+02:00"
+    },
+    {
+      "player_id": "0e0baf6f-b12d-49fd-8ed0-e25522b2d73a",
+      "observed_name": "Guest2393",
+      "first_seen": "2026-08-30T16:27:41+02:00"
+    },
+    {
+      "player_id": "2b3074df-7705-4557-9e20-07fc48a70783",
+      "observed_name": "Koh the got",
+      "first_seen": "2026-08-30T16:27:41+02:00"
+    },
+    {
+      "player_id": "2cc69c0c-f33c-4432-8710-743f1fd81974",
+      "observed_name": "Guest4004",
+      "first_seen": "2026-08-30T16:27:41+02:00"
+    },
+    {
+      "player_id": "371cf54a-191d-4e24-974b-5c123076cbbc",
+      "observed_name": "Devourersavage",
+      "first_seen": "2026-08-30T16:27:41+02:00"
+    },
+    {
+      "player_id": "40bc3a4c-2581-41af-b7d5-e72f7069099e",
+      "observed_name": "Guest4876",
+      "first_seen": "2026-08-30T16:27:41+02:00"
+    },
+    {
+      "player_id": "98dd4e1f-7337-4c1d-9b48-bd17584fc424",
+      "observed_name": "Guest7730",
+      "first_seen": "2026-08-30T16:27:41+02:00"
+    },
+    {
+      "player_id": "f41ecd2d-b6c6-4e66-b689-21a8d4b833ad",
+      "observed_name": "Guest5257",
+      "first_seen": "2026-08-30T16:27:41+02:00"
+    },
+    {
+      "player_id": "e78b562b-007f-49eb-9a6e-d4fa639e67e8",
+      "observed_name": "Guest9388",
+      "first_seen": "2026-08-30T16:27:42+02:00"
+    },
+    {
+      "player_id": "892c82af-8f5a-482d-95fa-9436ff13f444",
+      "observed_name": "Dogpeach",
+      "first_seen": "2026-08-30T16:31:32+02:00"
+    },
+    {
+      "player_id": "8bdf999b-f7b0-431e-a79c-450c0b169b6d",
+      "observed_name": "Guest4360",
+      "first_seen": "2026-08-30T16:31:32+02:00"
+    },
+    {
+      "player_id": "c601f8c6-78a5-4bb2-8ea6-a921f13ea860",
+      "observed_name": "Guest3751",
+      "first_seen": "2026-08-30T16:31:32+02:00"
+    },
+    {
+      "player_id": "5db30e12-4021-4a81-a471-c3ce99000007",
+      "observed_name": "Guest6777",
+      "first_seen": "2026-08-30T16:31:40+02:00"
     }
   ]
 }
