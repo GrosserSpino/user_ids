@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T19:53:07+02:00",
+  "updated_at": "2026-08-30T19:58:11+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2047,6 +2047,51 @@
       "player_id": "d497ac80-ec9b-4adb-a8f7-616b70f73f87",
       "observed_name": "Guest6448",
       "first_seen": "2026-08-30T19:50:41+02:00"
+    },
+    {
+      "player_id": "640e76dc-e5a9-4c9b-ba4a-bcf517ee9e3a",
+      "observed_name": "Guest7183",
+      "first_seen": "2026-08-30T19:55:06+02:00"
+    },
+    {
+      "player_id": "881b94f3-75b7-44ec-9dd3-14599a581f9b",
+      "observed_name": "Guest2061",
+      "first_seen": "2026-08-30T19:55:06+02:00"
+    },
+    {
+      "player_id": "b8b39c07-1141-4c80-8248-198f88538a55",
+      "observed_name": "Racervine",
+      "first_seen": "2026-08-30T19:55:06+02:00"
+    },
+    {
+      "player_id": "154e2908-56c6-451f-833a-d8f3979adbb2",
+      "observed_name": "Crystalnight",
+      "first_seen": "2026-08-30T19:57:08+02:00"
+    },
+    {
+      "player_id": "2959441a-3cf9-4f75-935b-3470c316752d",
+      "observed_name": "FlyingSeagull.VAgX",
+      "first_seen": "2026-08-30T19:57:08+02:00"
+    },
+    {
+      "player_id": "2bb58b64-c6d6-4edc-a050-1155bad5f83f",
+      "observed_name": "Guest4749",
+      "first_seen": "2026-08-30T19:57:08+02:00"
+    },
+    {
+      "player_id": "4cb78c6b-af9f-4c4d-b4c2-76964dc4a436",
+      "observed_name": "Guest4479",
+      "first_seen": "2026-08-30T19:57:08+02:00"
+    },
+    {
+      "player_id": "a58f8225-c18d-4693-af8d-c6d4d288bfab",
+      "observed_name": "Guest5448",
+      "first_seen": "2026-08-30T19:57:08+02:00"
+    },
+    {
+      "player_id": "ea1e6791-6e31-4446-b9ae-c932399ddc5a",
+      "observed_name": "Guest1780",
+      "first_seen": "2026-08-30T19:57:08+02:00"
     }
   ]
 }
