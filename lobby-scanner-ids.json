@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T19:58:11+02:00",
+  "updated_at": "2026-08-30T20:03:14+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2092,6 +2092,56 @@
       "player_id": "ea1e6791-6e31-4446-b9ae-c932399ddc5a",
       "observed_name": "Guest1780",
       "first_seen": "2026-08-30T19:57:08+02:00"
+    },
+    {
+      "player_id": "2c9d6856-46e2-4419-8349-15513c829e2d",
+      "observed_name": "Guest8379",
+      "first_seen": "2026-08-30T20:01:46+02:00"
+    },
+    {
+      "player_id": "7a5cf438-2581-4a27-8850-ec3a9294efa7",
+      "observed_name": "Wolfvalley",
+      "first_seen": "2026-08-30T20:01:46+02:00"
+    },
+    {
+      "player_id": "85ac6e3c-5c54-432f-9939-a4a4a358eb4d",
+      "observed_name": "Guest8093",
+      "first_seen": "2026-08-30T20:01:46+02:00"
+    },
+    {
+      "player_id": "b52034b4-d442-4092-9143-fa18d64ae4d4",
+      "observed_name": "Sienna",
+      "first_seen": "2026-08-30T20:01:51+02:00"
+    },
+    {
+      "player_id": "a6d4356b-3b19-458d-bb10-1b8a8b37ab92",
+      "observed_name": "Guest9488",
+      "first_seen": "2026-08-30T20:02:04+02:00"
+    },
+    {
+      "player_id": "3488b5e8-fcf6-4e27-a48b-a9202e145a2e",
+      "observed_name": "I IS A geen been",
+      "first_seen": "2026-08-30T20:02:14+02:00"
+    },
+    {
+      "player_id": "7233ad09-34b8-4cfb-9c14-75a7b0a694cf",
+      "observed_name": "JamezGamez555",
+      "first_seen": "2026-08-30T20:02:14+02:00"
+    },
+    {
+      "player_id": "d62de598-33ce-4e09-ab44-c8727d41bc73",
+      "observed_name": "Guest2081",
+      "first_seen": "2026-08-30T20:02:30+02:00"
+    },
+    {
+      "player_id": "2dffe026-03d3-4729-9e9a-45bf8c2c80af",
+      "observed_name": "CECI",
+      "first_seen": "2026-08-30T20:02:31+02:00"
+    },
+    {
+      "player_id": "f5640b31-30eb-45dc-9899-c3f48d48afa3",
+      "observed_name": "Guest4566",
+      "first_seen": "2026-08-30T20:02:34+02:00"
     }
   ]
 }
