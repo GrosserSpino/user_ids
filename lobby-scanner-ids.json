@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T16:11:57+02:00",
+  "updated_at": "2026-08-30T16:16:59+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1462,6 +1462,41 @@
       "player_id": "e97800ba-0670-4069-896f-f33c4159fdfc",
       "observed_name": "Guest5372",
       "first_seen": "2026-08-30T16:11:55+02:00"
+    },
+    {
+      "player_id": "0c3eeb9d-4256-4815-bfcd-25458d6c1388",
+      "observed_name": "Guest3083",
+      "first_seen": "2026-08-30T16:12:02+02:00"
+    },
+    {
+      "player_id": "55182fe3-b705-4481-8f90-ea906c94d170",
+      "observed_name": "Guest7387",
+      "first_seen": "2026-08-30T16:12:14+02:00"
+    },
+    {
+      "player_id": "7b82ebbf-32be-4b39-9e03-abca5a01d6b9",
+      "observed_name": "Guest1944",
+      "first_seen": "2026-08-30T16:16:24+02:00"
+    },
+    {
+      "player_id": "dedba35b-105f-4a3f-9be7-d6e1897b2cd2",
+      "observed_name": "Guest2983",
+      "first_seen": "2026-08-30T16:16:24+02:00"
+    },
+    {
+      "player_id": "df281375-7a14-4e94-8e62-ec17c3fbb306",
+      "observed_name": "Guest9789",
+      "first_seen": "2026-08-30T16:16:24+02:00"
+    },
+    {
+      "player_id": "e56d5ce1-c8d9-4ef6-bdb4-02d604360f68",
+      "observed_name": "Harefree",
+      "first_seen": "2026-08-30T16:16:24+02:00"
+    },
+    {
+      "player_id": "fd86866a-39e2-4127-aff5-84549eb0def8",
+      "observed_name": "Guest6849",
+      "first_seen": "2026-08-30T16:16:24+02:00"
     }
   ]
 }
