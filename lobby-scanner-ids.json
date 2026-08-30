@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-30T16:32:07+02:00",
+  "updated_at": "2026-08-30T16:37:10+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -1577,6 +1577,31 @@
       "player_id": "5db30e12-4021-4a81-a471-c3ce99000007",
       "observed_name": "Guest6777",
       "first_seen": "2026-08-30T16:31:40+02:00"
+    },
+    {
+      "player_id": "7851fb20-d038-400b-991a-7725d2728c3a",
+      "observed_name": "ElectricDonut.tzBC",
+      "first_seen": "2026-08-30T16:34:28+02:00"
+    },
+    {
+      "player_id": "ab8dce45-e29f-47bf-9e68-5f342fe5349d",
+      "observed_name": "Snakebitter",
+      "first_seen": "2026-08-30T16:34:28+02:00"
+    },
+    {
+      "player_id": "bbfede51-3258-4f64-b4ca-fa14dec97404",
+      "observed_name": "Guest2458",
+      "first_seen": "2026-08-30T16:34:28+02:00"
+    },
+    {
+      "player_id": "9cefd784-7e9d-4677-a6dd-0699439fdb55",
+      "observed_name": "Guest4060",
+      "first_seen": "2026-08-30T16:35:07+02:00"
+    },
+    {
+      "player_id": "b94d0741-20e5-45e9-a24c-a5b4368b72f0",
+      "observed_name": "Guest2047",
+      "first_seen": "2026-08-30T16:35:18+02:00"
     }
   ]
 }
