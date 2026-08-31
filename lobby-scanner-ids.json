@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-31T23:02:34+02:00",
+  "updated_at": "2026-08-31T23:07:37+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2657,6 +2657,61 @@
       "player_id": "4b8fea91-3db0-4183-b0a1-354fda9791c8",
       "observed_name": "Guest1664",
       "first_seen": "2026-08-31T23:02:33+02:00"
+    },
+    {
+      "player_id": "4f7d8427-ef99-487e-b0e2-9e5f537119b4",
+      "observed_name": "anthonyrut15",
+      "first_seen": "2026-08-31T23:02:50+02:00"
+    },
+    {
+      "player_id": "f489f748-7a7f-477c-8f77-f0bf9f68e773",
+      "observed_name": "Guest6169",
+      "first_seen": "2026-08-31T23:03:19+02:00"
+    },
+    {
+      "player_id": "d2e98e68-b45f-4969-86c3-76657500d52f",
+      "observed_name": "Guest8130",
+      "first_seen": "2026-08-31T23:03:21+02:00"
+    },
+    {
+      "player_id": "2292e567-fceb-410b-8c52-79faed537790",
+      "observed_name": "Whimseyring",
+      "first_seen": "2026-08-31T23:06:33+02:00"
+    },
+    {
+      "player_id": "3a371a36-4371-476f-92e4-a983092189dc",
+      "observed_name": "Guest6988",
+      "first_seen": "2026-08-31T23:06:33+02:00"
+    },
+    {
+      "player_id": "795dfac4-d993-4725-9545-bba5116753c0",
+      "observed_name": "Guest6080",
+      "first_seen": "2026-08-31T23:06:38+02:00"
+    },
+    {
+      "player_id": "8b0ace63-d6a7-41e0-8da7-321e24e8dbd8",
+      "observed_name": "OH PWINCESS",
+      "first_seen": "2026-08-31T23:06:49+02:00"
+    },
+    {
+      "player_id": "9f77696e-bf7d-4aea-b9c0-c01a3659e3f5",
+      "observed_name": "Guest9091",
+      "first_seen": "2026-08-31T23:07:10+02:00"
+    },
+    {
+      "player_id": "79d2c210-ce99-42c2-bb9a-9d1c74faabfb",
+      "observed_name": "CorseHock69",
+      "first_seen": "2026-08-31T23:07:14+02:00"
+    },
+    {
+      "player_id": "d7065206-08b5-43e9-8214-180cc7da0419",
+      "observed_name": "goob.nrt.ARM",
+      "first_seen": "2026-08-31T23:07:22+02:00"
+    },
+    {
+      "player_id": "64695a8a-69ff-49c3-af5f-ef3e561a1e1f",
+      "observed_name": "Guest9231",
+      "first_seen": "2026-08-31T23:07:23+02:00"
     }
   ]
 }
