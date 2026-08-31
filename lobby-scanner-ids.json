@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-31T19:51:39+02:00",
+  "updated_at": "2026-08-31T19:56:43+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2537,6 +2537,61 @@
       "player_id": "a4d7eb33-53e9-4769-8618-e7c35944dfe5",
       "observed_name": "CosmicGoober",
       "first_seen": "2026-08-31T19:48:26+02:00"
+    },
+    {
+      "player_id": "3ead6c43-2170-489e-ac42-171652bacf32",
+      "observed_name": "Pixiebranch",
+      "first_seen": "2026-08-31T19:54:11+02:00"
+    },
+    {
+      "player_id": "698528c2-a154-4530-9a8f-4892416f9755",
+      "observed_name": "Guest3782",
+      "first_seen": "2026-08-31T19:54:11+02:00"
+    },
+    {
+      "player_id": "bd2db9ef-2991-4435-b3c7-46ee848867d9",
+      "observed_name": "Guest1048",
+      "first_seen": "2026-08-31T19:54:11+02:00"
+    },
+    {
+      "player_id": "11f9bd92-e593-413b-930d-cd90dabeb04b",
+      "observed_name": "Guest6288",
+      "first_seen": "2026-08-31T19:54:12+02:00"
+    },
+    {
+      "player_id": "36d3c10d-8979-48e9-bfec-8f3ef3218f09",
+      "observed_name": "Guest1577",
+      "first_seen": "2026-08-31T19:54:12+02:00"
+    },
+    {
+      "player_id": "37459541-42f5-4022-819c-c0752d385c2f",
+      "observed_name": "failme",
+      "first_seen": "2026-08-31T19:54:12+02:00"
+    },
+    {
+      "player_id": "516c957e-f8ba-4eec-9e28-27e8d158246d",
+      "observed_name": "Guest3400",
+      "first_seen": "2026-08-31T19:54:12+02:00"
+    },
+    {
+      "player_id": "52eb0995-934d-4f89-bd9d-6efd1c6be6fb",
+      "observed_name": "Guest6123",
+      "first_seen": "2026-08-31T19:54:12+02:00"
+    },
+    {
+      "player_id": "7a50d1d0-c4fd-41b4-8911-4d1b18c52f76",
+      "observed_name": "Kwame",
+      "first_seen": "2026-08-31T19:54:12+02:00"
+    },
+    {
+      "player_id": "c6542182-3660-48ae-a069-647e8c81a706",
+      "observed_name": "Guest7080",
+      "first_seen": "2026-08-31T19:54:12+02:00"
+    },
+    {
+      "player_id": "e1c3c6b9-8daa-421c-bd8d-fa50afd240d0",
+      "observed_name": "NightFox.xvFg",
+      "first_seen": "2026-08-31T19:54:12+02:00"
     }
   ]
 }
