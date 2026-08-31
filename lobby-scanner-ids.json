@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-31T23:27:48+02:00",
+  "updated_at": "2026-08-31T23:32:52+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2787,6 +2787,31 @@
       "player_id": "41b65ba3-4085-4f34-b3b8-28e4ed48302f",
       "observed_name": "Guest7086",
       "first_seen": "2026-08-31T23:27:27+02:00"
+    },
+    {
+      "player_id": "20db8cbc-b6a2-4baf-a51c-30978ecc80f2",
+      "observed_name": "Guest4056",
+      "first_seen": "2026-08-31T23:27:48+02:00"
+    },
+    {
+      "player_id": "be6cd905-aca4-4abb-ae9d-e34fde43b872",
+      "observed_name": "Guest2098",
+      "first_seen": "2026-08-31T23:27:53+02:00"
+    },
+    {
+      "player_id": "32984963-1492-4eb4-a181-00d6b6cba975",
+      "observed_name": "Guest7546",
+      "first_seen": "2026-08-31T23:28:05+02:00"
+    },
+    {
+      "player_id": "a5e4102d-34b5-4e1e-bb76-e0fdb0bab165",
+      "observed_name": "KingPuffBall",
+      "first_seen": "2026-08-31T23:28:05+02:00"
+    },
+    {
+      "player_id": "8d904460-6594-416f-9c0a-50de89258dc8",
+      "observed_name": "ShinySnail.PkQW",
+      "first_seen": "2026-08-31T23:28:14+02:00"
     }
   ]
 }
