@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-31T23:32:52+02:00",
+  "updated_at": "2026-08-31T23:37:55+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2812,6 +2812,36 @@
       "player_id": "8d904460-6594-416f-9c0a-50de89258dc8",
       "observed_name": "ShinySnail.PkQW",
       "first_seen": "2026-08-31T23:28:14+02:00"
+    },
+    {
+      "player_id": "b4694112-032b-4f4f-8e5a-20f88f17d574",
+      "observed_name": "sOcCeR_MAN",
+      "first_seen": "2026-08-31T23:34:00+02:00"
+    },
+    {
+      "player_id": "c71676f4-9149-4311-9acc-80a764d51dab",
+      "observed_name": "Goober_PRO",
+      "first_seen": "2026-08-31T23:34:00+02:00"
+    },
+    {
+      "player_id": "e6e0bc15-0261-499f-8669-7d94ff54c6b4",
+      "observed_name": "Stormgossamer",
+      "first_seen": "2026-08-31T23:34:00+02:00"
+    },
+    {
+      "player_id": "24066ad3-c886-47e5-853d-3c49ce266b75",
+      "observed_name": "Guest1931",
+      "first_seen": "2026-08-31T23:34:24+02:00"
+    },
+    {
+      "player_id": "e5aa96a1-9080-4c57-a631-e45895d4daf1",
+      "observed_name": "Guest6297",
+      "first_seen": "2026-08-31T23:34:32+02:00"
+    },
+    {
+      "player_id": "0687be28-b6f8-4ddc-97a5-eb67c0c93f22",
+      "observed_name": "ErraticMutant.EIam",
+      "first_seen": "2026-08-31T23:34:35+02:00"
     }
   ]
 }
