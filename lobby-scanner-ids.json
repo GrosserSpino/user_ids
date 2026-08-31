@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-31T19:56:43+02:00",
+  "updated_at": "2026-08-31T20:01:46+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2592,6 +2592,46 @@
       "player_id": "e1c3c6b9-8daa-421c-bd8d-fa50afd240d0",
       "observed_name": "NightFox.xvFg",
       "first_seen": "2026-08-31T19:54:12+02:00"
+    },
+    {
+      "player_id": "5b03032e-1f66-44c5-ac43-8209c3e2beb6",
+      "observed_name": "Guest1059",
+      "first_seen": "2026-08-31T19:59:58+02:00"
+    },
+    {
+      "player_id": "abbb548b-eb73-4cf2-80b5-060ae0730c30",
+      "observed_name": "Robinshadow",
+      "first_seen": "2026-08-31T19:59:58+02:00"
+    },
+    {
+      "player_id": "d6108268-1662-4b5b-b216-23ecc7f26270",
+      "observed_name": "Guest6363",
+      "first_seen": "2026-08-31T19:59:58+02:00"
+    },
+    {
+      "player_id": "3914baec-c5b1-4459-99f6-e976325bdb57",
+      "observed_name": "Guest1642",
+      "first_seen": "2026-08-31T20:00:07+02:00"
+    },
+    {
+      "player_id": "7eda163c-6d65-43a3-a6b0-7446bd4de28e",
+      "observed_name": "Guest1775",
+      "first_seen": "2026-08-31T20:00:15+02:00"
+    },
+    {
+      "player_id": "6094b59c-abf1-4f66-b3c6-9183966c822f",
+      "observed_name": "Astonhlofficial",
+      "first_seen": "2026-08-31T20:00:28+02:00"
+    },
+    {
+      "player_id": "9655427d-a908-4d5b-bb51-686ac5740b54",
+      "observed_name": "Guest7070",
+      "first_seen": "2026-08-31T20:00:37+02:00"
+    },
+    {
+      "player_id": "6aa6de80-508b-4ccc-a146-aa7df520baea",
+      "observed_name": "Guest7494",
+      "first_seen": "2026-08-31T20:00:44+02:00"
     }
   ]
 }
