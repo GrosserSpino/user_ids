@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-08-31T23:48:01+02:00",
+  "updated_at": "2026-08-31T23:53:03+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -2872,6 +2872,31 @@
       "player_id": "ebf47e82-ed57-403b-8e1d-6b20bd010b70",
       "observed_name": "ToJ Failure",
       "first_seen": "2026-08-31T23:44:21+02:00"
+    },
+    {
+      "player_id": "073d5944-a2b9-4d60-967a-84a639b84c30",
+      "observed_name": "Guest5370",
+      "first_seen": "2026-08-31T23:50:42+02:00"
+    },
+    {
+      "player_id": "24b32116-9e07-4ddc-b2de-9eb7ac030789",
+      "observed_name": "Guest8230",
+      "first_seen": "2026-08-31T23:50:42+02:00"
+    },
+    {
+      "player_id": "705860b4-6ee5-490d-a16b-f0c8d3090d26",
+      "observed_name": "Princessfern",
+      "first_seen": "2026-08-31T23:50:42+02:00"
+    },
+    {
+      "player_id": "def2a65b-39ac-4ac1-b52e-3dedc2eb166c",
+      "observed_name": "Guest5455",
+      "first_seen": "2026-08-31T23:50:42+02:00"
+    },
+    {
+      "player_id": "18374f6f-f839-4870-a318-11b8244d8a0b",
+      "observed_name": "TOJchase",
+      "first_seen": "2026-08-31T23:50:45+02:00"
     }
   ]
 }
