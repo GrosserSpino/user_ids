@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-01T20:18:59+02:00",
+  "updated_at": "2026-09-01T20:24:02+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3222,6 +3222,56 @@
       "player_id": "ee22c31e-5c5b-447a-bce8-fb0b20b5d6ea",
       "observed_name": "Guest5336",
       "first_seen": "2026-09-01T20:16:24+02:00"
+    },
+    {
+      "player_id": "14b18f43-d83e-430c-b17e-821f9fe49b95",
+      "observed_name": "Guest6961",
+      "first_seen": "2026-09-01T20:19:21+02:00"
+    },
+    {
+      "player_id": "9faf30ac-07ac-4370-bd9e-cf18835f283d",
+      "observed_name": "Fishjasper",
+      "first_seen": "2026-09-01T20:19:21+02:00"
+    },
+    {
+      "player_id": "36349850-10d6-4642-84cb-2e4d2640756f",
+      "observed_name": "Guest6525",
+      "first_seen": "2026-09-01T20:22:33+02:00"
+    },
+    {
+      "player_id": "380cefba-3851-403b-8cc4-b576cf9a202c",
+      "observed_name": "Guest3058",
+      "first_seen": "2026-09-01T20:22:33+02:00"
+    },
+    {
+      "player_id": "4521b487-bfe1-4337-a3df-5bc7b6879f92",
+      "observed_name": "Guest9020",
+      "first_seen": "2026-09-01T20:22:33+02:00"
+    },
+    {
+      "player_id": "46d3edbe-6b6a-4505-b138-51fc0bbe85e1",
+      "observed_name": "zaddy ",
+      "first_seen": "2026-09-01T20:22:33+02:00"
+    },
+    {
+      "player_id": "866c42ed-4520-4fba-a70b-8c8779ba40a1",
+      "observed_name": "Stagriver",
+      "first_seen": "2026-09-01T20:22:33+02:00"
+    },
+    {
+      "player_id": "b08c8e08-e179-427f-bb9b-980ff8e5dd6c",
+      "observed_name": "Guest5144",
+      "first_seen": "2026-09-01T20:22:33+02:00"
+    },
+    {
+      "player_id": "f1d46292-159a-4040-ba7c-f1fb036a782e",
+      "observed_name": "Capitain Fuher",
+      "first_seen": "2026-09-01T20:22:37+02:00"
+    },
+    {
+      "player_id": "7aa0d565-5c2f-4570-a55e-80ea986d7a20",
+      "observed_name": "Guest2021",
+      "first_seen": "2026-09-01T20:22:43+02:00"
     }
   ]
 }
