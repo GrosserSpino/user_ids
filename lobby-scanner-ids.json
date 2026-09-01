@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-01T23:54:43+02:00",
+  "updated_at": "2026-09-01T23:59:45+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3512,6 +3512,36 @@
       "player_id": "b8b31d85-2f6e-408d-a5a3-82cad18980f8",
       "observed_name": "Guest9133",
       "first_seen": "2026-09-01T23:53:03+02:00"
+    },
+    {
+      "player_id": "59edce27-3b4a-4d02-9dab-088d12e856ef",
+      "observed_name": "GoldCoffee.eTcq",
+      "first_seen": "2026-09-01T23:57:28+02:00"
+    },
+    {
+      "player_id": "64be5621-2a2a-433b-85ad-ffc226cfc428",
+      "observed_name": "Guest7058",
+      "first_seen": "2026-09-01T23:57:28+02:00"
+    },
+    {
+      "player_id": "7b1ddaba-0538-4700-89c6-0435d3917bee",
+      "observed_name": "Guest4747",
+      "first_seen": "2026-09-01T23:57:28+02:00"
+    },
+    {
+      "player_id": "e3fa5bfa-78e5-4053-9f93-b5546167d750",
+      "observed_name": "Stagcypress",
+      "first_seen": "2026-09-01T23:57:28+02:00"
+    },
+    {
+      "player_id": "a2acfe27-4c3e-46b0-a8c9-4588a474e5e8",
+      "observed_name": "Guest5594",
+      "first_seen": "2026-09-01T23:57:47+02:00"
+    },
+    {
+      "player_id": "ebcd11f4-71a8-48be-9f78-f13472500bc5",
+      "observed_name": "Guest5484",
+      "first_seen": "2026-09-01T23:57:54+02:00"
     }
   ]
 }
