@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-01T20:34:10+02:00",
+  "updated_at": "2026-09-01T22:55:49+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3332,6 +3332,31 @@
       "player_id": "5ab953f7-7330-4d61-b1ed-6317cdbd7539",
       "observed_name": "Guest9384",
       "first_seen": "2026-09-01T20:33:13+02:00"
+    },
+    {
+      "player_id": "64f8480d-16dc-4fc4-a946-34b662fec74c",
+      "observed_name": "Shirtfrill",
+      "first_seen": "2026-09-01T22:51:12+02:00"
+    },
+    {
+      "player_id": "9fbf2678-02ff-473e-89b1-5bd66710f0b6",
+      "observed_name": "Guest4088",
+      "first_seen": "2026-09-01T22:51:12+02:00"
+    },
+    {
+      "player_id": "62396006-26b9-46fb-baa7-82429d6084f8",
+      "observed_name": "PaperMutant",
+      "first_seen": "2026-09-01T22:51:21+02:00"
+    },
+    {
+      "player_id": "eb2801b1-05d6-480c-8aef-ce8b71ee96b5",
+      "observed_name": "Angela2024.LoveRosaz",
+      "first_seen": "2026-09-01T22:51:29+02:00"
+    },
+    {
+      "player_id": "d1411785-6dc1-4544-9cb2-d13663495e41",
+      "observed_name": "Guest8180",
+      "first_seen": "2026-09-01T22:51:30+02:00"
     }
   ]
 }
