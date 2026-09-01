@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-01T23:39:28+02:00",
+  "updated_at": "2026-09-01T23:44:32+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3452,6 +3452,16 @@
       "player_id": "ff97ef9e-4570-45c0-bc41-dfebf3668375",
       "observed_name": "Guest6762",
       "first_seen": "2026-09-01T23:36:21+02:00"
+    },
+    {
+      "player_id": "a5cd6380-2049-4c8d-b079-d1947e01f509",
+      "observed_name": "Napeprairie",
+      "first_seen": "2026-09-01T23:40:32+02:00"
+    },
+    {
+      "player_id": "9bab2e99-3ab3-4949-95a7-d8b74434d3da",
+      "observed_name": "Guest4753",
+      "first_seen": "2026-09-01T23:41:21+02:00"
     }
   ]
 }
