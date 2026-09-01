@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-01T23:19:16+02:00",
+  "updated_at": "2026-09-01T23:24:18+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3377,6 +3377,36 @@
       "player_id": "f01346d5-2e0b-4c44-86fe-d95c1ea4382e",
       "observed_name": "Thumbswift",
       "first_seen": "2026-09-01T23:19:15+02:00"
+    },
+    {
+      "player_id": "9dd18ae0-db14-4d82-9012-be8f8c165293",
+      "observed_name": "Guest6443",
+      "first_seen": "2026-09-01T23:19:16+02:00"
+    },
+    {
+      "player_id": "b6b4e300-93cc-475c-a126-4100fd448918",
+      "observed_name": "Guest4219",
+      "first_seen": "2026-09-01T23:19:21+02:00"
+    },
+    {
+      "player_id": "d47d546d-5ffa-4f8f-a5ec-b8aa9b7468d8",
+      "observed_name": "Guest5963",
+      "first_seen": "2026-09-01T23:19:39+02:00"
+    },
+    {
+      "player_id": "6f38b085-d683-4953-9f39-75a8eb7a22d8",
+      "observed_name": "Guest2301",
+      "first_seen": "2026-09-01T23:24:04+02:00"
+    },
+    {
+      "player_id": "803b9d26-27fc-4d35-b44c-c1accf37f608",
+      "observed_name": "Zebrastone",
+      "first_seen": "2026-09-01T23:24:04+02:00"
+    },
+    {
+      "player_id": "be4cae7e-7b25-43f5-a458-333c2bbc556a",
+      "observed_name": "YellowKitty.X7y1",
+      "first_seen": "2026-09-01T23:24:08+02:00"
     }
   ]
 }
