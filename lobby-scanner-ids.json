@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-02T23:51:51+02:00",
+  "updated_at": "2026-09-02T23:56:56+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3722,6 +3722,11 @@
       "player_id": "1ef346c5-87b7-4c92-b2bd-8b84e8032c68",
       "observed_name": "Guest7889",
       "first_seen": "2026-09-02T23:50:58+02:00"
+    },
+    {
+      "player_id": "9fd26819-b348-45f4-aeac-8114fc81ef1d",
+      "observed_name": "Deathprism",
+      "first_seen": "2026-09-02T23:54:26+02:00"
     }
   ]
 }
