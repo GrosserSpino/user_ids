@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-02T23:41:45+02:00",
+  "updated_at": "2026-09-02T23:46:48+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3677,6 +3677,16 @@
       "player_id": "da310273-e36f-4547-a82d-983a91cad655",
       "observed_name": "Flierstripe",
       "first_seen": "2026-09-02T23:39:52+02:00"
+    },
+    {
+      "player_id": "dc2ae1c0-563b-4fc9-aaae-85e9ed49ddc3",
+      "observed_name": "Fightercharm",
+      "first_seen": "2026-09-02T23:45:58+02:00"
+    },
+    {
+      "player_id": "4a19acdb-adaa-4ea6-bf1b-b0fbb39418e5",
+      "observed_name": "Guest8924",
+      "first_seen": "2026-09-02T23:46:04+02:00"
     }
   ]
 }
