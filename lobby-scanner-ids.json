@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-04T20:36:28+02:00",
+  "updated_at": "2026-09-04T20:41:32+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3957,6 +3957,31 @@
       "player_id": "877e0d4d-5d5a-441a-a0b3-7948406f80ec",
       "observed_name": "Guest8811",
       "first_seen": "2026-09-04T20:33:02+02:00"
+    },
+    {
+      "player_id": "2d386aac-896b-4ddf-9bf0-0a9d9d5b2505",
+      "observed_name": "KiralyLevente",
+      "first_seen": "2026-09-04T20:39:21+02:00"
+    },
+    {
+      "player_id": "5341ae9a-1a1b-435e-8297-ccb29dcd59cc",
+      "observed_name": "Bunnyquark",
+      "first_seen": "2026-09-04T20:39:21+02:00"
+    },
+    {
+      "player_id": "569ed427-215f-413f-8f0b-811182b15b58",
+      "observed_name": "Guest1334",
+      "first_seen": "2026-09-04T20:39:21+02:00"
+    },
+    {
+      "player_id": "868f2711-99d9-4ece-a617-06548bfdcff9",
+      "observed_name": "Guest5635",
+      "first_seen": "2026-09-04T20:39:21+02:00"
+    },
+    {
+      "player_id": "fd30e70e-c3bb-4818-947d-2fec1aa109a4",
+      "observed_name": "Gooner Mooner",
+      "first_seen": "2026-09-04T20:39:21+02:00"
     }
   ]
 }
