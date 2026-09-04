@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-04T20:26:22+02:00",
+  "updated_at": "2026-09-04T20:31:26+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -3907,6 +3907,31 @@
       "player_id": "f68096e1-514c-44a5-acca-01cf64caaec4",
       "observed_name": "Guest5057",
       "first_seen": "2026-09-04T20:23:04+02:00"
+    },
+    {
+      "player_id": "3ddc3237-f6a4-47b4-943d-f5fbd6066acc",
+      "observed_name": "lulu/müne ᯓ✧",
+      "first_seen": "2026-09-04T20:26:58+02:00"
+    },
+    {
+      "player_id": "5782d667-c6b4-4fbf-8afd-f3e3343b5e8c",
+      "observed_name": "Flamezenith",
+      "first_seen": "2026-09-04T20:26:58+02:00"
+    },
+    {
+      "player_id": "aa57e980-c4a5-4bf3-8144-a26956a07353",
+      "observed_name": "Guest1111",
+      "first_seen": "2026-09-04T20:26:58+02:00"
+    },
+    {
+      "player_id": "da41ae36-8c84-4577-8b5c-3e764393d78d",
+      "observed_name": "MikelM17",
+      "first_seen": "2026-09-04T20:26:58+02:00"
+    },
+    {
+      "player_id": "e052f3d9-81c3-4405-a63c-1a816f2fcf60",
+      "observed_name": "Guest4207",
+      "first_seen": "2026-09-04T20:26:58+02:00"
     }
   ]
 }
