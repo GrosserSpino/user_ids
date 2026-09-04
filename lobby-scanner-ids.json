@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T00:47:02+02:00",
+  "updated_at": "2026-09-05T00:52:05+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -4582,6 +4582,31 @@
       "player_id": "fb9d9c1d-0b9c-4986-9da3-f4ea99bc986d",
       "observed_name": "Guest4095",
       "first_seen": "2026-09-05T00:44:00+02:00"
+    },
+    {
+      "player_id": "63e778b6-01f1-4935-9958-2e2466055458",
+      "observed_name": "Stonestone",
+      "first_seen": "2026-09-05T00:47:37+02:00"
+    },
+    {
+      "player_id": "4471d9df-22c7-441f-97c8-8e40203da209",
+      "observed_name": "Guest4602",
+      "first_seen": "2026-09-05T00:51:11+02:00"
+    },
+    {
+      "player_id": "5d904291-e2b1-4b0f-b0ed-41f938c7e439",
+      "observed_name": "vQedRXBA",
+      "first_seen": "2026-09-05T00:51:11+02:00"
+    },
+    {
+      "player_id": "ed79e576-e8a4-4c00-b0f9-02038c96a4b5",
+      "observed_name": "Mousemoor",
+      "first_seen": "2026-09-05T00:51:11+02:00"
+    },
+    {
+      "player_id": "f18546f6-3d9a-4cf0-a5b3-3ed89b1712f3",
+      "observed_name": "Guest6075",
+      "first_seen": "2026-09-05T00:51:11+02:00"
     }
   ]
 }
