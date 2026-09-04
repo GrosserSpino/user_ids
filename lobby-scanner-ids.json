@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-04T20:46:35+02:00",
+  "updated_at": "2026-09-04T20:51:38+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -4012,6 +4012,41 @@
       "player_id": "6b822321-f6f5-478c-b8fd-12276065a004",
       "observed_name": "Guest7179",
       "first_seen": "2026-09-04T20:44:42+02:00"
+    },
+    {
+      "player_id": "1839a41e-8d43-46a2-b915-fc4777eaa5c7",
+      "observed_name": "Guest3851",
+      "first_seen": "2026-09-04T20:50:03+02:00"
+    },
+    {
+      "player_id": "1f3bf285-bd31-4c04-ba69-fd18b10ad4b5",
+      "observed_name": "Guest9214",
+      "first_seen": "2026-09-04T20:50:03+02:00"
+    },
+    {
+      "player_id": "97918d80-7706-4d2c-be69-94a9214f352e",
+      "observed_name": "Ottersilk",
+      "first_seen": "2026-09-04T20:50:03+02:00"
+    },
+    {
+      "player_id": "b678ccd5-b152-4b54-8c3d-bb1979f419ff",
+      "observed_name": "Guest2473",
+      "first_seen": "2026-09-04T20:50:03+02:00"
+    },
+    {
+      "player_id": "f6f539e3-48fe-4886-9381-d14fa21c6f41",
+      "observed_name": "Mafioso",
+      "first_seen": "2026-09-04T20:50:11+02:00"
+    },
+    {
+      "player_id": "f0dc5bdb-7d51-40b1-ac40-c9fee3b324b5",
+      "observed_name": "SovietGoober",
+      "first_seen": "2026-09-04T20:50:17+02:00"
+    },
+    {
+      "player_id": "9f1e32e5-40d0-42af-baf8-ae661d84b7a3",
+      "observed_name": "Guest9866",
+      "first_seen": "2026-09-04T20:50:18+02:00"
     }
   ]
 }
