@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-04T21:01:43+02:00",
+  "updated_at": "2026-09-04T21:06:47+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -4092,6 +4092,41 @@
       "player_id": "9f48cbe6-f9da-4f8e-8017-bc11b140092b",
       "observed_name": "Guest8940",
       "first_seen": "2026-09-04T21:00:45+02:00"
+    },
+    {
+      "player_id": "145efc63-3c3b-4515-a061-c8d30be3110d",
+      "observed_name": "Guest1519",
+      "first_seen": "2026-09-04T21:04:17+02:00"
+    },
+    {
+      "player_id": "19d8ad47-afd4-4d2a-adf9-750513d9f9f0",
+      "observed_name": "Guest1111",
+      "first_seen": "2026-09-04T21:04:17+02:00"
+    },
+    {
+      "player_id": "2cd65200-08b1-40c3-8c09-01fe3cbceafd",
+      "observed_name": "Guest1733",
+      "first_seen": "2026-09-04T21:04:17+02:00"
+    },
+    {
+      "player_id": "9354b3f7-76cb-4ce4-8609-ca74855d250f",
+      "observed_name": "Elkglitter",
+      "first_seen": "2026-09-04T21:04:17+02:00"
+    },
+    {
+      "player_id": "f84bd646-6a08-424d-b120-58acf9687a0e",
+      "observed_name": "Guest3406",
+      "first_seen": "2026-09-04T21:04:17+02:00"
+    },
+    {
+      "player_id": "3df97279-50c2-4d71-82d4-467ea9ce05ec",
+      "observed_name": "Guest1322",
+      "first_seen": "2026-09-04T21:04:28+02:00"
+    },
+    {
+      "player_id": "b8df3d38-e542-4776-b04e-5e6d816d420b",
+      "observed_name": "Guest7032",
+      "first_seen": "2026-09-04T21:04:34+02:00"
     }
   ]
 }
