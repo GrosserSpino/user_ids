@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T22:25:54+02:00",
+  "updated_at": "2026-09-05T22:30:56+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -5607,6 +5607,36 @@
       "player_id": "fa2466df-75f1-41a0-af46-3800f34affcd",
       "observed_name": "Omnomfan12",
       "first_seen": "2026-09-05T22:24:46+02:00"
+    },
+    {
+      "player_id": "35a08df9-79c6-4b9e-aa6e-9b0a276bc4d7",
+      "observed_name": "Beanxx",
+      "first_seen": "2026-09-05T22:30:00+02:00"
+    },
+    {
+      "player_id": "7fdf92cb-9051-4eff-83a0-86054b50ce74",
+      "observed_name": "Seal team 6",
+      "first_seen": "2026-09-05T22:30:00+02:00"
+    },
+    {
+      "player_id": "a0dd8194-d3d8-4153-a7c2-47959a3ab65a",
+      "observed_name": "Guest3653",
+      "first_seen": "2026-09-05T22:30:00+02:00"
+    },
+    {
+      "player_id": "df1f7bb2-55cf-46bd-a49c-57868e0425f9",
+      "observed_name": "Guest2574",
+      "first_seen": "2026-09-05T22:30:00+02:00"
+    },
+    {
+      "player_id": "ee5ea102-b1d8-4972-adca-8964a47e3ed2",
+      "observed_name": "Stonenimble",
+      "first_seen": "2026-09-05T22:30:00+02:00"
+    },
+    {
+      "player_id": "f0392608-2ea4-439c-a417-384e616b860c",
+      "observed_name": "Guest7507",
+      "first_seen": "2026-09-05T22:30:00+02:00"
     }
   ]
 }
