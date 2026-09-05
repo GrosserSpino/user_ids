@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T15:45:06+02:00",
+  "updated_at": "2026-09-05T15:50:09+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -5052,6 +5052,16 @@
       "player_id": "ec3d650f-5384-402f-8e69-c16c92fc2672",
       "observed_name": "Pumaround",
       "first_seen": "2026-09-05T15:44:18+02:00"
+    },
+    {
+      "player_id": "0baac688-5694-4ec7-9bc6-e9b58fd4feed",
+      "observed_name": "Backpool",
+      "first_seen": "2026-09-05T15:48:56+02:00"
+    },
+    {
+      "player_id": "66820a09-5732-4568-89f9-58378e970417",
+      "observed_name": "惣流",
+      "first_seen": "2026-09-05T15:48:56+02:00"
     }
   ]
 }
