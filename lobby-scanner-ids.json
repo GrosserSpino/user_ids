@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T19:12:29+02:00",
+  "updated_at": "2026-09-05T19:17:32+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -5337,6 +5337,36 @@
       "player_id": "8f443953-da3b-4ade-80d7-e459ade50e64",
       "observed_name": "Guest2734",
       "first_seen": "2026-09-05T19:11:05+02:00"
+    },
+    {
+      "player_id": "1e0b3b4e-461a-4af8-982a-9a902e3c8b8f",
+      "observed_name": "Cloakcat",
+      "first_seen": "2026-09-05T19:17:20+02:00"
+    },
+    {
+      "player_id": "2f68f480-d0b7-4baa-aca8-4fdd6139c9d3",
+      "observed_name": "Guest7601",
+      "first_seen": "2026-09-05T19:17:20+02:00"
+    },
+    {
+      "player_id": "8dab9a3f-b932-4084-a8e1-de4f845c3606",
+      "observed_name": "Guest2717",
+      "first_seen": "2026-09-05T19:17:20+02:00"
+    },
+    {
+      "player_id": "90677d58-57df-4ebd-b650-01ac327608da",
+      "observed_name": "Guest5711",
+      "first_seen": "2026-09-05T19:17:20+02:00"
+    },
+    {
+      "player_id": "bbaabefc-e713-4ceb-bd35-4c8b35fd0a0b",
+      "observed_name": "Bookdawg",
+      "first_seen": "2026-09-05T19:17:20+02:00"
+    },
+    {
+      "player_id": "e80dfebc-cc5a-40ca-8a59-7eafb8e17f06",
+      "observed_name": "Guest6008",
+      "first_seen": "2026-09-05T19:17:20+02:00"
     }
   ]
 }
