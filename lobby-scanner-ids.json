@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T22:41:03+02:00",
+  "updated_at": "2026-09-05T22:46:08+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -5662,6 +5662,26 @@
       "player_id": "7c33ddf1-2191-4b84-9c78-e6b6e2a37925",
       "observed_name": "Warlockmetal",
       "first_seen": "2026-09-05T22:38:04+02:00"
+    },
+    {
+      "player_id": "2c3c4042-4b3f-40e6-b8c6-15ba6ca420f0",
+      "observed_name": "HungryThunder.xlm4",
+      "first_seen": "2026-09-05T22:43:26+02:00"
+    },
+    {
+      "player_id": "797e102f-cd53-4835-a6c5-d37f1fa90f55",
+      "observed_name": "Trackerribbon",
+      "first_seen": "2026-09-05T22:43:26+02:00"
+    },
+    {
+      "player_id": "fa5a821c-4d58-4201-a541-f3624308b449",
+      "observed_name": "Guest9587",
+      "first_seen": "2026-09-05T22:43:26+02:00"
+    },
+    {
+      "player_id": "441b7087-99ff-4bfe-8f27-437f3da39758",
+      "observed_name": "Guest3859",
+      "first_seen": "2026-09-05T22:43:28+02:00"
     }
   ]
 }
