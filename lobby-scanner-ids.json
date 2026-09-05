@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T08:24:26+02:00",
+  "updated_at": "2026-09-05T08:29:29+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -4717,6 +4717,36 @@
       "player_id": "7f6323d4-0f4a-4b1d-8147-51604971c432",
       "observed_name": "Guest9404",
       "first_seen": "2026-09-05T08:22:32+02:00"
+    },
+    {
+      "player_id": "fe72ece0-b728-4d57-a1ff-768190f20e51",
+      "observed_name": "Neckprism",
+      "first_seen": "2026-09-05T08:25:26+02:00"
+    },
+    {
+      "player_id": "97b5b68a-d7f4-4726-bc42-733e8b4dd764",
+      "observed_name": "Guest7041",
+      "first_seen": "2026-09-05T08:25:30+02:00"
+    },
+    {
+      "player_id": "f06504ff-365c-4956-8928-3e62dc500595",
+      "observed_name": "Guest7519",
+      "first_seen": "2026-09-05T08:25:33+02:00"
+    },
+    {
+      "player_id": "7f9f3db2-3f79-49dd-9c86-778483afe820",
+      "observed_name": "Guest2135",
+      "first_seen": "2026-09-05T08:28:45+02:00"
+    },
+    {
+      "player_id": "86a3629e-f601-49d8-8573-162276e02a07",
+      "observed_name": "Cranetiny",
+      "first_seen": "2026-09-05T08:28:45+02:00"
+    },
+    {
+      "player_id": "384616fe-12c2-4337-ba7f-c05a9b4055bb",
+      "observed_name": "Guest6351",
+      "first_seen": "2026-09-05T08:29:06+02:00"
     }
   ]
 }
