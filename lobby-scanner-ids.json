@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T00:57:07+02:00",
+  "updated_at": "2026-09-05T08:09:15+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -4632,6 +4632,31 @@
       "player_id": "632d7145-5dae-4733-bfd0-1c7d1af77a80",
       "observed_name": "Guest5716",
       "first_seen": "2026-09-05T00:55:27+02:00"
+    },
+    {
+      "player_id": "616eecce-e1e7-4d4b-bb3d-bede248bd31d",
+      "observed_name": "Chillersolar",
+      "first_seen": "2026-09-05T08:04:26+02:00"
+    },
+    {
+      "player_id": "d8ce2890-7e4d-4a81-b88c-732626abd04b",
+      "observed_name": "Guest9355",
+      "first_seen": "2026-09-05T08:04:26+02:00"
+    },
+    {
+      "player_id": "5a3e6e29-daea-4f4d-be51-d824e0527869",
+      "observed_name": "Guest4631",
+      "first_seen": "2026-09-05T08:07:27+02:00"
+    },
+    {
+      "player_id": "7a0de716-ce07-40d4-8720-08736eecdb58",
+      "observed_name": "Gullsnow",
+      "first_seen": "2026-09-05T08:07:27+02:00"
+    },
+    {
+      "player_id": "f0a490fd-6102-4ab7-a87c-67aa65cde288",
+      "observed_name": "Guest4133",
+      "first_seen": "2026-09-05T08:07:27+02:00"
     }
   ]
 }
