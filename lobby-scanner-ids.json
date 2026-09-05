@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T23:36:41+02:00",
+  "updated_at": "2026-09-05T23:41:44+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -5907,6 +5907,21 @@
       "player_id": "ae4de461-9393-430c-b8a4-de0a7d6290f8",
       "observed_name": "WildHorse.9asK",
       "first_seen": "2026-09-05T23:32:28+02:00"
+    },
+    {
+      "player_id": "0de2b27d-6275-4928-b925-c564bc687646",
+      "observed_name": "Speakersprout",
+      "first_seen": "2026-09-05T23:38:38+02:00"
+    },
+    {
+      "player_id": "34079983-ec0a-4a9f-82ac-60f884b8dbda",
+      "observed_name": "Guest9334",
+      "first_seen": "2026-09-05T23:38:38+02:00"
+    },
+    {
+      "player_id": "f5bf9978-65b0-400c-b9f8-866423982bdf",
+      "observed_name": "Guest7044",
+      "first_seen": "2026-09-05T23:38:38+02:00"
     }
   ]
 }
