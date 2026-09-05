@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T23:51:50+02:00",
+  "updated_at": "2026-09-05T23:56:53+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -5967,6 +5967,36 @@
       "player_id": "e4c1202f-159b-4ece-802a-a9d70b438aa9",
       "observed_name": "Guest4956",
       "first_seen": "2026-09-05T23:47:13+02:00"
+    },
+    {
+      "player_id": "085349be-85b8-4b45-9e0a-5cd04ac1ea11",
+      "observed_name": "[Goober Nation] J'ohm",
+      "first_seen": "2026-09-05T23:52:49+02:00"
+    },
+    {
+      "player_id": "1a337688-6093-4611-8cfa-657d58b04076",
+      "observed_name": "Guest5648",
+      "first_seen": "2026-09-05T23:52:49+02:00"
+    },
+    {
+      "player_id": "6c1704e7-ad14-4d16-bd5c-1d8b552dfa28",
+      "observed_name": "Guest5647",
+      "first_seen": "2026-09-05T23:52:49+02:00"
+    },
+    {
+      "player_id": "80e5e2c5-7664-42d0-9707-4bca04e3c902",
+      "observed_name": "Oh penyo aice",
+      "first_seen": "2026-09-05T23:52:49+02:00"
+    },
+    {
+      "player_id": "98762cf0-ef01-4d48-b65e-3e1a84fe362a",
+      "observed_name": "[Goober Nation] Z'ách",
+      "first_seen": "2026-09-05T23:52:49+02:00"
+    },
+    {
+      "player_id": "c8df78b2-ce6a-4b69-95f9-34645701093d",
+      "observed_name": "Crushertitanium",
+      "first_seen": "2026-09-05T23:52:49+02:00"
     }
   ]
 }
