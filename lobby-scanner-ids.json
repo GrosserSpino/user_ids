@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T08:59:47+02:00",
+  "updated_at": "2026-09-05T15:09:46+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -4867,6 +4867,41 @@
       "player_id": "9b276bae-86e9-4ccc-8dfc-c3ed0dbcea81",
       "observed_name": "Guest3960",
       "first_seen": "2026-09-05T08:55:42+02:00"
+    },
+    {
+      "player_id": "62645d94-cb46-466a-8730-f03e8ede568b",
+      "observed_name": "Raptorarrow",
+      "first_seen": "2026-09-05T15:04:56+02:00"
+    },
+    {
+      "player_id": "928d0b17-6df6-4a78-bfab-23b618f07607",
+      "observed_name": "rolfie",
+      "first_seen": "2026-09-05T15:04:56+02:00"
+    },
+    {
+      "player_id": "b9a780fd-26b7-4c97-b5bb-c64fa44840f3",
+      "observed_name": "Guest1351",
+      "first_seen": "2026-09-05T15:05:32+02:00"
+    },
+    {
+      "player_id": "0dae8dd2-d43d-4e8b-ace7-9f7f9a75d4ed",
+      "observed_name": "Guest9199",
+      "first_seen": "2026-09-05T15:05:47+02:00"
+    },
+    {
+      "player_id": "31459929-d401-49f3-a3b8-0a50d020f089",
+      "observed_name": "Hidenickel",
+      "first_seen": "2026-09-05T15:08:24+02:00"
+    },
+    {
+      "player_id": "5b198514-1ad1-4057-ab2a-0ca930f2263f",
+      "observed_name": "Guest6167",
+      "first_seen": "2026-09-05T15:08:24+02:00"
+    },
+    {
+      "player_id": "e08810ef-6a3c-44cd-abc5-68faf659f11e",
+      "observed_name": "Guest2023",
+      "first_seen": "2026-09-05T15:08:24+02:00"
     }
   ]
 }
