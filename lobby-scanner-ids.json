@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-05T18:32:03+02:00",
+  "updated_at": "2026-09-05T18:37:05+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -5122,6 +5122,41 @@
       "player_id": "ebee3d67-ed0b-4e9b-a5bf-a2f6fcb7bf1d",
       "observed_name": "Guest8903",
       "first_seen": "2026-09-05T18:30:44+02:00"
+    },
+    {
+      "player_id": "44dc373d-b7c0-4fb6-b1c4-673d12dd8f77",
+      "observed_name": "Guest7728",
+      "first_seen": "2026-09-05T18:35:32+02:00"
+    },
+    {
+      "player_id": "4870e1c5-59ff-4d0a-b115-d9f26deed101",
+      "observed_name": "Lightningnimble",
+      "first_seen": "2026-09-05T18:35:32+02:00"
+    },
+    {
+      "player_id": "09e3a42b-dadb-467d-8731-964137958804",
+      "observed_name": "Da Best",
+      "first_seen": "2026-09-05T18:35:33+02:00"
+    },
+    {
+      "player_id": "0f7c18cf-353a-4cf3-b817-ec791f7e205d",
+      "observed_name": "DestiiiinyBooout",
+      "first_seen": "2026-09-05T18:35:33+02:00"
+    },
+    {
+      "player_id": "1a1d0d10-35fe-4ca9-9465-06969491c488",
+      "observed_name": "Guest7703",
+      "first_seen": "2026-09-05T18:35:33+02:00"
+    },
+    {
+      "player_id": "9a580926-3a57-4d5d-a636-e60ba7d94027",
+      "observed_name": "DancingTruck.lJ5r",
+      "first_seen": "2026-09-05T18:35:43+02:00"
+    },
+    {
+      "player_id": "d61e34c8-3654-4c77-896c-309e94e04a3e",
+      "observed_name": "Guest2423",
+      "first_seen": "2026-09-05T18:35:45+02:00"
     }
   ]
 }
