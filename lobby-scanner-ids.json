@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T09:25:58+02:00",
+  "updated_at": "2026-09-06T09:31:02+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6082,6 +6082,36 @@
       "player_id": "86a9d9e7-4993-4239-99b1-85de307c0153",
       "observed_name": "Sagephase",
       "first_seen": "2026-09-06T09:25:56+02:00"
+    },
+    {
+      "player_id": "c81064b3-d323-4f97-8229-035e6d9fdef9",
+      "observed_name": "",
+      "first_seen": "2026-09-06T09:26:08+02:00"
+    },
+    {
+      "player_id": "108c040d-5b3f-41b5-9cf0-e869aa4b2c25",
+      "observed_name": "Guest8488",
+      "first_seen": "2026-09-06T09:26:15+02:00"
+    },
+    {
+      "player_id": "8db785d6-b822-42f8-af24-8d0a0627a1e5",
+      "observed_name": "Guest8386",
+      "first_seen": "2026-09-06T09:26:27+02:00"
+    },
+    {
+      "player_id": "25f2dd94-8d81-40ff-9468-d9373c2dbab6",
+      "observed_name": "Fangdour",
+      "first_seen": "2026-09-06T09:30:11+02:00"
+    },
+    {
+      "player_id": "8e5e5495-f266-4ef6-9719-279cf98eab9c",
+      "observed_name": "Guest3194",
+      "first_seen": "2026-09-06T09:30:11+02:00"
+    },
+    {
+      "player_id": "ee971ee9-6882-4fda-b3b8-451145556ff6",
+      "observed_name": "Guest2707",
+      "first_seen": "2026-09-06T09:30:11+02:00"
     }
   ]
 }
