@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T15:44:01+02:00",
+  "updated_at": "2026-09-06T15:49:06+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -7087,6 +7087,31 @@
       "player_id": "c586bf17-b620-4726-8c3c-ddcb460643a9",
       "observed_name": "Guest9831",
       "first_seen": "2026-09-06T15:43:19+02:00"
+    },
+    {
+      "player_id": "20972bac-26c2-44fc-82da-e37e5c4a11cc",
+      "observed_name": "Guest7258",
+      "first_seen": "2026-09-06T15:47:27+02:00"
+    },
+    {
+      "player_id": "4af9bc7c-b55d-4dd4-9f9d-507576a6d6f5",
+      "observed_name": "Guest6212",
+      "first_seen": "2026-09-06T15:47:27+02:00"
+    },
+    {
+      "player_id": "4b4b0db2-7a9a-4756-83a6-c101a0aeaf29",
+      "observed_name": "Monkey D luffy",
+      "first_seen": "2026-09-06T15:47:27+02:00"
+    },
+    {
+      "player_id": "eccfd70c-681d-4bcb-8630-e918a05973d2",
+      "observed_name": "Dolphinfate",
+      "first_seen": "2026-09-06T15:47:27+02:00"
+    },
+    {
+      "player_id": "ff472205-b196-4a22-980c-97f574517356",
+      "observed_name": "Guest5476",
+      "first_seen": "2026-09-06T15:47:27+02:00"
     }
   ]
 }
