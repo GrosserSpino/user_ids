@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T00:01:56+02:00",
+  "updated_at": "2026-09-06T09:10:38+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6002,6 +6002,31 @@
       "player_id": "745c7f6f-31fe-4d20-80fd-2e1e947e3181",
       "observed_name": "Weaselpaper",
       "first_seen": "2026-09-05T23:58:55+02:00"
+    },
+    {
+      "player_id": "55a68895-dc2b-4d77-8da5-3ac28a7af7ef",
+      "observed_name": "Guest6008",
+      "first_seen": "2026-09-06T09:05:48+02:00"
+    },
+    {
+      "player_id": "60765c72-a4d4-4afd-a391-943434d12cde",
+      "observed_name": "Tonguemango",
+      "first_seen": "2026-09-06T09:05:48+02:00"
+    },
+    {
+      "player_id": "f2a72a34-85b7-4d59-8397-784a4ae7ceb5",
+      "observed_name": "NightPizza.k8R1",
+      "first_seen": "2026-09-06T09:05:48+02:00"
+    },
+    {
+      "player_id": "f568d78c-3d9f-4409-bb3e-6933bf0531c7",
+      "observed_name": "Toothyellow",
+      "first_seen": "2026-09-06T09:10:30+02:00"
+    },
+    {
+      "player_id": "028d44e8-e009-499f-b8e6-daa4fe8d2942",
+      "observed_name": "Guest9662",
+      "first_seen": "2026-09-06T09:10:31+02:00"
     }
   ]
 }
