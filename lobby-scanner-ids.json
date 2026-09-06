@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T14:38:14+02:00",
+  "updated_at": "2026-09-06T14:43:18+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6862,6 +6862,26 @@
       "player_id": "c862f23b-ab3f-42cc-bc7a-da07dcb2444f",
       "observed_name": "Dartpuzzle",
       "first_seen": "2026-09-06T14:38:00+02:00"
+    },
+    {
+      "player_id": "652d7737-63b6-41a8-82ca-92bbb87466fe",
+      "observed_name": "peaarral",
+      "first_seen": "2026-09-06T14:41:45+02:00"
+    },
+    {
+      "player_id": "6b95b45c-8833-494a-a133-aca7bde2ea70",
+      "observed_name": "Zebradust",
+      "first_seen": "2026-09-06T14:41:45+02:00"
+    },
+    {
+      "player_id": "8ceb1d40-7949-4c26-ad95-67862266897f",
+      "observed_name": "Guest5289",
+      "first_seen": "2026-09-06T14:41:45+02:00"
+    },
+    {
+      "player_id": "1f76018e-3a78-47aa-926f-bc6ea418839c",
+      "observed_name": "Guest7285",
+      "first_seen": "2026-09-06T14:41:55+02:00"
     }
   ]
 }
