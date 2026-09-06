@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T10:46:49+02:00",
+  "updated_at": "2026-09-06T10:51:51+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6372,6 +6372,21 @@
       "player_id": "aab88adb-2fe0-4ea9-96d3-f7a1c4f9bec1",
       "observed_name": "Guest8631",
       "first_seen": "2026-09-06T10:45:13+02:00"
+    },
+    {
+      "player_id": "14d6af88-c416-4a17-abc0-66d21c3ac5fb",
+      "observed_name": "Mareseason",
+      "first_seen": "2026-09-06T10:50:05+02:00"
+    },
+    {
+      "player_id": "c44d2424-1209-4ad1-87af-447830b39a4b",
+      "observed_name": "Guest9090",
+      "first_seen": "2026-09-06T10:50:05+02:00"
+    },
+    {
+      "player_id": "c2b3a07e-0c7f-4dad-b9de-627720cc9477",
+      "observed_name": "Đ₳Ɽ₮Ⱨ ₩łⱠⱠ",
+      "first_seen": "2026-09-06T10:50:48+02:00"
     }
   ]
 }
