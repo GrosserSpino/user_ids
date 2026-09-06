@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T17:13:48+02:00",
+  "updated_at": "2026-09-06T18:23:21+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -7242,6 +7242,61 @@
       "player_id": "701bdf01-9cca-41ab-b785-b5bb5b4fed3e",
       "observed_name": "Guest5886",
       "first_seen": "2026-09-06T17:13:13+02:00"
+    },
+    {
+      "player_id": "26778474-a4ec-43c6-a994-4ce7c12d8baf",
+      "observed_name": "Guest3338",
+      "first_seen": "2026-09-06T18:18:36+02:00"
+    },
+    {
+      "player_id": "267e7b27-5595-4dca-8ddc-11ac248b41c2",
+      "observed_name": "tomking1",
+      "first_seen": "2026-09-06T18:18:36+02:00"
+    },
+    {
+      "player_id": "5e547dd2-5e15-4287-a5ff-d86cfaceeaa9",
+      "observed_name": "Sharkbrave",
+      "first_seen": "2026-09-06T18:18:36+02:00"
+    },
+    {
+      "player_id": "82bbceac-5fe3-47fd-8ea0-221b37bf15dc",
+      "observed_name": "Guest2628",
+      "first_seen": "2026-09-06T18:18:36+02:00"
+    },
+    {
+      "player_id": "03ef4699-3ff3-43dd-a24f-ddfbfd4d2de3",
+      "observed_name": "Guest9462",
+      "first_seen": "2026-09-06T18:18:37+02:00"
+    },
+    {
+      "player_id": "12204390-ee67-482e-8287-4ad43a06b415",
+      "observed_name": "Guest3471",
+      "first_seen": "2026-09-06T18:18:42+02:00"
+    },
+    {
+      "player_id": "ea160203-1a74-4b4c-a016-730767813816",
+      "observed_name": "Guest5306",
+      "first_seen": "2026-09-06T18:18:45+02:00"
+    },
+    {
+      "player_id": "1e256901-1817-46c9-ace2-ad30bb04294b",
+      "observed_name": "Guest7548",
+      "first_seen": "2026-09-06T18:23:09+02:00"
+    },
+    {
+      "player_id": "2e5bc82f-fe05-4ade-a69f-2cbc208e2591",
+      "observed_name": "MystryCop",
+      "first_seen": "2026-09-06T18:23:09+02:00"
+    },
+    {
+      "player_id": "9d929b26-ba29-49f1-883c-1bea66f5ca9d",
+      "observed_name": "Guest3366",
+      "first_seen": "2026-09-06T18:23:09+02:00"
+    },
+    {
+      "player_id": "bdc39fba-0868-460b-a6cf-0d0d3402b314",
+      "observed_name": "Fighterberry",
+      "first_seen": "2026-09-06T18:23:09+02:00"
     }
   ]
 }
