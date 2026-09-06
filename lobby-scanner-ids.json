@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T18:28:25+02:00",
+  "updated_at": "2026-09-06T19:39:17+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -7312,6 +7312,41 @@
       "player_id": "e2ea788d-745b-487a-9cc4-8d836e3de442",
       "observed_name": "Guest8332",
       "first_seen": "2026-09-06T18:27:09+02:00"
+    },
+    {
+      "player_id": "58c55e37-fa01-4d01-8690-3a33c52addcf",
+      "observed_name": "Forgermidnight",
+      "first_seen": "2026-09-06T19:35:07+02:00"
+    },
+    {
+      "player_id": "7d43e83a-775a-4c74-9208-aad994d7c910",
+      "observed_name": "Guest8050",
+      "first_seen": "2026-09-06T19:35:07+02:00"
+    },
+    {
+      "player_id": "7f9f1b2f-f551-415b-ba29-64c21d8f6b78",
+      "observed_name": "Guest2238",
+      "first_seen": "2026-09-06T19:35:07+02:00"
+    },
+    {
+      "player_id": "9697d80c-9197-4d10-8810-506550bdccae",
+      "observed_name": "Zico",
+      "first_seen": "2026-09-06T19:35:07+02:00"
+    },
+    {
+      "player_id": "d607d1ae-e19b-4813-b14e-38e9ebb91631",
+      "observed_name": "The greatpotato2",
+      "first_seen": "2026-09-06T19:35:07+02:00"
+    },
+    {
+      "player_id": "de78f5c0-b636-43f4-8e9b-c48d1444bc13",
+      "observed_name": "Guest3338",
+      "first_seen": "2026-09-06T19:35:07+02:00"
+    },
+    {
+      "player_id": "63bcf1bf-bea3-471b-a96b-36e9ec4b5e2f",
+      "observed_name": "Guest6398",
+      "first_seen": "2026-09-06T19:35:15+02:00"
     }
   ]
 }
