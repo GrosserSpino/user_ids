@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T14:18:02+02:00",
+  "updated_at": "2026-09-06T14:23:05+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6797,6 +6797,21 @@
       "player_id": "21519949-d993-430c-be11-f91a62419003",
       "observed_name": "NightMango.kHg6",
       "first_seen": "2026-09-06T14:17:42+02:00"
+    },
+    {
+      "player_id": "3346d104-f8be-410d-a92e-81bb45207b12",
+      "observed_name": "Batspring",
+      "first_seen": "2026-09-06T14:22:28+02:00"
+    },
+    {
+      "player_id": "1bf222c6-7dc8-4109-9297-398ac7ac5f7f",
+      "observed_name": "Guest3058",
+      "first_seen": "2026-09-06T14:22:29+02:00"
+    },
+    {
+      "player_id": "76919da7-38c2-40a6-a587-25b567ff022a",
+      "observed_name": "Guest5538",
+      "first_seen": "2026-09-06T14:22:39+02:00"
     }
   ]
 }
