@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T09:51:13+02:00",
+  "updated_at": "2026-09-06T09:56:17+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6162,6 +6162,36 @@
       "player_id": "d984c9a5-eaba-4346-a466-63ad61d8ea98",
       "observed_name": "Ringercord",
       "first_seen": "2026-09-06T09:48:32+02:00"
+    },
+    {
+      "player_id": "75ce1992-28fb-40bd-996b-99c09196d324",
+      "observed_name": "Scorpionmaze",
+      "first_seen": "2026-09-06T09:53:40+02:00"
+    },
+    {
+      "player_id": "e3ad50d5-b679-4be6-868a-e44a5fd283b5",
+      "observed_name": "Guest2437",
+      "first_seen": "2026-09-06T09:53:40+02:00"
+    },
+    {
+      "player_id": "151cab31-9aa8-407e-9707-d35dd4b0eb61",
+      "observed_name": "Guest2145",
+      "first_seen": "2026-09-06T09:54:33+02:00"
+    },
+    {
+      "player_id": "44a516c7-937e-42ca-bd56-7d7f36263158",
+      "observed_name": "Guest4129",
+      "first_seen": "2026-09-06T09:54:33+02:00"
+    },
+    {
+      "player_id": "ab336b02-10b8-4cd9-9f5c-1df09d80b452",
+      "observed_name": "Servantpower",
+      "first_seen": "2026-09-06T09:54:33+02:00"
+    },
+    {
+      "player_id": "d3d54e42-6879-4923-a4ce-069b28b57113",
+      "observed_name": "Guest1388",
+      "first_seen": "2026-09-06T09:54:33+02:00"
     }
   ]
 }
