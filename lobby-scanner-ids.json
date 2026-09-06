@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T14:07:54+02:00",
+  "updated_at": "2026-09-06T14:12:58+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6772,6 +6772,11 @@
       "player_id": "da260626-9ee7-4c44-8470-230648d07291",
       "observed_name": "Voicerose",
       "first_seen": "2026-09-06T14:06:25+02:00"
+    },
+    {
+      "player_id": "f7a65ad7-b79e-4114-afbb-372057ba0401",
+      "observed_name": "Crusherpaint",
+      "first_seen": "2026-09-06T14:10:36+02:00"
     }
   ]
 }
