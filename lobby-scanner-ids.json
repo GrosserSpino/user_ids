@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T16:58:37+02:00",
+  "updated_at": "2026-09-06T17:03:40+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -7187,6 +7187,16 @@
       "player_id": "eefd63f2-c61f-4fa4-901b-0be39bcb29d7",
       "observed_name": "MadMutant.fxcN",
       "first_seen": "2026-09-06T16:58:35+02:00"
+    },
+    {
+      "player_id": "ba866d1b-c013-4ed8-a056-0458f5f7954e",
+      "observed_name": "Lightergeode",
+      "first_seen": "2026-09-06T17:00:09+02:00"
+    },
+    {
+      "player_id": "4d25d13c-69d6-4ff0-9fcd-fc4890a404a8",
+      "observed_name": "Guest8925",
+      "first_seen": "2026-09-06T17:00:49+02:00"
     }
   ]
 }
