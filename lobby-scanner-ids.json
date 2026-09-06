@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T09:10:38+02:00",
+  "updated_at": "2026-09-06T09:15:40+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6027,6 +6027,31 @@
       "player_id": "028d44e8-e009-499f-b8e6-daa4fe8d2942",
       "observed_name": "Guest9662",
       "first_seen": "2026-09-06T09:10:31+02:00"
+    },
+    {
+      "player_id": "ec6c3dba-8851-429a-ab50-3f49fa3ddd74",
+      "observed_name": "Guest8454",
+      "first_seen": "2026-09-06T09:10:38+02:00"
+    },
+    {
+      "player_id": "0a31b79f-d3e7-4f22-8f05-a89abf8595c4",
+      "observed_name": "Guest1937",
+      "first_seen": "2026-09-06T09:14:49+02:00"
+    },
+    {
+      "player_id": "6e246860-80aa-4c5e-b8ce-624bdcba8382",
+      "observed_name": "Guest6746",
+      "first_seen": "2026-09-06T09:14:49+02:00"
+    },
+    {
+      "player_id": "b20e3542-82ca-481b-a64c-692e3a925ee8",
+      "observed_name": "Guest3017",
+      "first_seen": "2026-09-06T09:14:49+02:00"
+    },
+    {
+      "player_id": "d16552b4-56fb-481a-8db2-7ccc3010cb5a",
+      "observed_name": "Boweast",
+      "first_seen": "2026-09-06T09:14:49+02:00"
     }
   ]
 }
