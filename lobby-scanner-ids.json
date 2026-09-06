@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T10:21:33+02:00",
+  "updated_at": "2026-09-06T10:26:35+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6272,6 +6272,46 @@
       "player_id": "09bd5c0c-29dd-4309-aa85-9f67f9239355",
       "observed_name": "Guest4206",
       "first_seen": "2026-09-06T10:17:08+02:00"
+    },
+    {
+      "player_id": "3c2d2855-5eff-4eed-a08d-82b37cddfe1a",
+      "observed_name": "Guest5416",
+      "first_seen": "2026-09-06T10:21:59+02:00"
+    },
+    {
+      "player_id": "7497205a-838b-4046-a74d-af969b236722",
+      "observed_name": "Guest7357",
+      "first_seen": "2026-09-06T10:21:59+02:00"
+    },
+    {
+      "player_id": "92dcd576-50bf-46d5-bc2b-5d8fff9a1549",
+      "observed_name": "Chinweak",
+      "first_seen": "2026-09-06T10:21:59+02:00"
+    },
+    {
+      "player_id": "1c3823c4-b00e-4ec0-8dec-b04e9d974ded",
+      "observed_name": "Guest3166",
+      "first_seen": "2026-09-06T10:22:07+02:00"
+    },
+    {
+      "player_id": "796828ac-956e-439d-943f-6223c90936c1",
+      "observed_name": "Guest3373",
+      "first_seen": "2026-09-06T10:22:18+02:00"
+    },
+    {
+      "player_id": "e52bd2f4-b0e3-4e3a-8d91-62ec3422abf5",
+      "observed_name": "Guest4307",
+      "first_seen": "2026-09-06T10:22:19+02:00"
+    },
+    {
+      "player_id": "6da6d16b-5047-4f39-8085-287e7525c555",
+      "observed_name": "Guest7628",
+      "first_seen": "2026-09-06T10:22:35+02:00"
+    },
+    {
+      "player_id": "ac1aaccc-26ac-40ac-9179-c428d54145af",
+      "observed_name": "Sliceroil",
+      "first_seen": "2026-09-06T10:26:32+02:00"
     }
   ]
 }
