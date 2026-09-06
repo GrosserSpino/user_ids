@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T09:15:40+02:00",
+  "updated_at": "2026-09-06T09:20:43+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6052,6 +6052,31 @@
       "player_id": "d16552b4-56fb-481a-8db2-7ccc3010cb5a",
       "observed_name": "Boweast",
       "first_seen": "2026-09-06T09:14:49+02:00"
+    },
+    {
+      "player_id": "f45ca524-d6ca-447a-a291-8ecf546ccbec",
+      "observed_name": "Finplum",
+      "first_seen": "2026-09-06T09:19:24+02:00"
+    },
+    {
+      "player_id": "1aaf14f3-508d-4889-a992-84149dbdd4b0",
+      "observed_name": "Guest5981",
+      "first_seen": "2026-09-06T09:19:38+02:00"
+    },
+    {
+      "player_id": "6086a825-f453-4641-8d35-6d0f2b2b5b96",
+      "observed_name": "RedAndroid.1qsA",
+      "first_seen": "2026-09-06T09:19:50+02:00"
+    },
+    {
+      "player_id": "ae6e4619-22c7-4a51-bb52-f510c41a35c6",
+      "observed_name": "Guest9560",
+      "first_seen": "2026-09-06T09:19:58+02:00"
+    },
+    {
+      "player_id": "27c71dc5-af6a-49d0-9843-ee9d751ba5cd",
+      "observed_name": "Guest2849",
+      "first_seen": "2026-09-06T09:20:18+02:00"
     }
   ]
 }
