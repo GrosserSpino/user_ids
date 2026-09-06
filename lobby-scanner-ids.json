@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T11:27:14+02:00",
+  "updated_at": "2026-09-06T11:32:17+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6477,6 +6477,31 @@
       "player_id": "4a67b916-1ac5-4146-8a2e-c4e088cc2332",
       "observed_name": "Soarerrose",
       "first_seen": "2026-09-06T11:23:33+02:00"
+    },
+    {
+      "player_id": "c956699b-26ab-44c8-8747-284c9f38619d",
+      "observed_name": "Robinfoam",
+      "first_seen": "2026-09-06T11:27:14+02:00"
+    },
+    {
+      "player_id": "329a575e-e9e5-4a3b-9571-6111af92e965",
+      "observed_name": "FLOwer ",
+      "first_seen": "2026-09-06T11:30:13+02:00"
+    },
+    {
+      "player_id": "b171e3e5-6a42-4eec-84fa-c33ad1809a63",
+      "observed_name": "Bunnypuzzle",
+      "first_seen": "2026-09-06T11:30:13+02:00"
+    },
+    {
+      "player_id": "ce873de7-feeb-469d-b2c4-5319e1db3c6a",
+      "observed_name": "ss12F",
+      "first_seen": "2026-09-06T11:30:13+02:00"
+    },
+    {
+      "player_id": "e350ab44-347d-4a25-8fb2-52615618bb22",
+      "observed_name": "Guest1867",
+      "first_seen": "2026-09-06T11:30:13+02:00"
     }
   ]
 }
