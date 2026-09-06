@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T11:57:30+02:00",
+  "updated_at": "2026-09-06T12:02:34+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6562,6 +6562,26 @@
       "player_id": "18d960f5-ddb6-4be3-9282-d4ecde28ac9e",
       "observed_name": "Howlerfog",
       "first_seen": "2026-09-06T11:55:30+02:00"
+    },
+    {
+      "player_id": "2beaabd4-67ef-4722-8fe7-ec9b6b76029c",
+      "observed_name": "Snarlriver",
+      "first_seen": "2026-09-06T11:58:54+02:00"
+    },
+    {
+      "player_id": "7029764e-51c0-4c9f-9fb0-4085328894f7",
+      "observed_name": "Guest2731",
+      "first_seen": "2026-09-06T11:58:54+02:00"
+    },
+    {
+      "player_id": "96fbe723-f473-4498-94ee-3a163c11034e",
+      "observed_name": "CrazyHorse.UvlF",
+      "first_seen": "2026-09-06T11:58:54+02:00"
+    },
+    {
+      "player_id": "bf212cb6-56aa-4ed8-9143-c44eee97d855",
+      "observed_name": "ib",
+      "first_seen": "2026-09-06T11:59:07+02:00"
     }
   ]
 }
