@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "live_lobby_collector",
-  "updated_at": "2026-09-06T14:23:05+02:00",
+  "updated_at": "2026-09-06T14:28:09+02:00",
   "players": [
     {
       "player_id": "ea821d92-dfbb-4b57-9daf-46617ac2632d",
@@ -6812,6 +6812,36 @@
       "player_id": "76919da7-38c2-40a6-a587-25b567ff022a",
       "observed_name": "Guest5538",
       "first_seen": "2026-09-06T14:22:39+02:00"
+    },
+    {
+      "player_id": "8353d1d0-cdd9-498d-b3df-8ead5c943187",
+      "observed_name": "Guest8519",
+      "first_seen": "2026-09-06T14:26:31+02:00"
+    },
+    {
+      "player_id": "c65535c0-d00b-4a1b-b2db-14b65c7dc26b",
+      "observed_name": "Witchfan",
+      "first_seen": "2026-09-06T14:26:31+02:00"
+    },
+    {
+      "player_id": "ec48a676-a4a5-4d4d-a427-1228f527ee6e",
+      "observed_name": "Guest6046",
+      "first_seen": "2026-09-06T14:26:31+02:00"
+    },
+    {
+      "player_id": "b12f302f-06d4-4b2c-90ed-bd3dd9d3acc0",
+      "observed_name": "Toe Skibidi",
+      "first_seen": "2026-09-06T14:26:39+02:00"
+    },
+    {
+      "player_id": "db51afca-3c18-40c7-9cf1-629923a92baa",
+      "observed_name": "Guest9819",
+      "first_seen": "2026-09-06T14:26:39+02:00"
+    },
+    {
+      "player_id": "9c856298-14d0-4359-a55b-c2622d433d2a",
+      "observed_name": "Guest1907",
+      "first_seen": "2026-09-06T14:26:47+02:00"
     }
   ]
 }
